@@ -1,4 +1,13 @@
-Step 1: Create a ranodom Uniformly distributed values of P and Q using random value generation.xlsx
-Step 2: Run Script named Data for LF for ML inside power Factory.
-Step 3: Run Data_Preprocessing.ipynb script in python
-step 4: Run Load Flow Model 2.ipynb.
+## Steps to Run the Load Flow Analysis
+
+### Step 1: Generate Random Uniformly Distributed Values
+- Use the `random value generation.xlsx` file to create random uniformly distributed values of **P** and **Q**.
+
+### Step 2: Run the Power Factory Script
+- Execute the script named `Data for LF for ML` inside **Power Factory**.
+
+### Step 3: Preprocess the Data
+- Run the `Data_Preprocessing.ipynb` Python script for data preprocessing.
+
+### Step 4: Run the Load Flow Model
+- Execute the `Load Flow Model 2.ipynb` script to complete the load flow analysis.
