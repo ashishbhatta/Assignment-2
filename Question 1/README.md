@@ -10,4 +10,4 @@
 - Run the `Data_Preprocessing.ipynb` Python script for data preprocessing.
 
 ### Step 4: Run the Load Flow Model
-- Execute the `Load Flow Model 2.ipynb` script to complete the load flow analysis.
+- Execute the `Load Flow Model 2.ipynb` script to apply Machine Learning Model load flow analysis.
