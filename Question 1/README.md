@@ -11,3 +11,6 @@
 
 ### Step 4: Run the Load Flow Model
 - Execute the `Load Flow Model 2.ipynb` script to apply Machine Learning Model load flow analysis.
+
+
+![image](https://github.com/user-attachments/assets/dff81317-33bb-4042-a859-3854d93ff3c9)
